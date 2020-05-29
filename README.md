@@ -20,7 +20,7 @@
     tag_similar_matrix50_1.json/tag_similar_matrix50_2.json: 태그간 유사도 정보
     
  Notice: tag_similar_matrix50_1.json, tag_similar_matrix50_2.json 파일 공유 링크
- - [Google Drive](https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing)
+ [https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing](https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing)
  
  ***
 ## 3. Code Files
