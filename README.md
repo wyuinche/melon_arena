@@ -33,8 +33,8 @@
 
 ***
 ## Team Members
-- wyuinche
-- movie5
-- rlawjdghek
-- Seunghoon
+- [wyuinche](https://github.com/wyuinche)
+- [movie5](https://github.com/movie5)
+- [rlawjdghek](https://github.com/rlawjdghek)
+- [Seunghoon](https://github.com/SeungHoon00)
   
