@@ -21,6 +21,7 @@
     
  Notice: tag_similar_matrix50_1.json, tag_similar_matrix50_2.json 파일 공유 링크
  [https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing](https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing)
+ 
  train_toknized.json 파일 공유 링크
  https://drive.google.com/file/d/1WfXqhJbEsi1Pfe-3Qh2bnV5AGuhZqrou/view?usp=sharing
  
