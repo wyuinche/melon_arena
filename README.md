@@ -23,8 +23,7 @@
  [https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing](https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing)
  
  train_token.json 파일 공유 링크
-https://drive.google.com/file/d/1TJDCJ2ZrpPgUA7KfiYgluyippok-J-Rd/view?usp=sharing 
- 
+https://drive.google.com/file/d/1TJDCJ2ZrpPgUA7KfiYgluyippok-J-Rd/view?usp=sharing
  
  ***
 ## 3. Code Files
