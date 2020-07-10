@@ -22,8 +22,9 @@
  Notice: tag_similar_matrix50_1.json, tag_similar_matrix50_2.json 파일 공유 링크
  [https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing](https://drive.google.com/drive/folders/1lRCxpqWz7278C1nN5WeYCxSZrubDXu3n?usp=sharing)
  
- train_toknized.json 파일 공유 링크
- https://drive.google.com/file/d/1WfXqhJbEsi1Pfe-3Qh2bnV5AGuhZqrou/view?usp=sharing
+ train_token.json 파일 공유 링크
+https://drive.google.com/file/d/1TJDCJ2ZrpPgUA7KfiYgluyippok-J-Rd/view?usp=sharing 
+ 
  
  ***
 ## 3. Code Files
@@ -33,6 +34,7 @@
     tag_plylst_id.ipynb: tag_plylst_pair.json 파일을 얻기 위한 코드
     tag_group.ipynb: tag_group.json/tag_group_list.json 파일을 얻기 위한 코드
     tag_similar_arr/tag_similar_arr_1/tag_similar_arr_3.ipynb/matrix_distribute_multiplication.ipynb: tag_similar_matrix50_1/2.json을 얻기 위한 코드
+    
 
 ***
 ## Team Members
